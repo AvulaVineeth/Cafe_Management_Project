@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-Angular-MySql Projects.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-Angular-MySql Projects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.inn.cafe/com.inn.cafe.iml" filepath="$PROJECT_DIR$/com.inn.cafe/com.inn.cafe.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.inn.cafe/src/main/main.iml" filepath="$PROJECT_DIR$/com.inn.cafe/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.inn.cafe/src/test/test.iml" filepath="$PROJECT_DIR$/com.inn.cafe/src/test/test.iml" />
     </modules>
